@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm chamuditha perera</h1>
+<h1 align="center">Hi 👋, I'm Chamuditha Perera</h1>
 <h3 align="center">Mobile Application Full Stack Developer</h3>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=chamudithaperera&label=Profile%20views&color=88a3b4&style=flat" alt="chamudithaperera" /> </div>
@@ -15,6 +15,7 @@ public class Profile
     private String location = "Kalutara, Sri Lanka";
     private String edu = "an IT Undergraduate at University of Jaffna";
     private String selfLearning = "Dart language with Flutter framework";
+    private String role = "Mobile Application Full Stack Developer";
     private String email = "chamudithakavishan2001@gmail.com";
 
     @Override
