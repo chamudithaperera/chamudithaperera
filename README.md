@@ -73,7 +73,7 @@ public class Profile
 </p>
 
 ---
-<h3 align="center">Follow me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/chamudithakavishan" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="chamudithakavishan" height="50" width="60" /></a>
 <a href="https://stackoverflow.com/users/chamuditha-perera" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/StackOverflow-Light.svg" alt="chamuditha-perera" height="50" width="60" /></a>
