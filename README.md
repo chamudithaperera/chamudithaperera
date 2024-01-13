@@ -8,17 +8,27 @@
   </a>
 </div>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
+```java
+public class AbhigyanTrips
+{
+    private String name = "Chamuditha Perera";
+    private String location = "Kalutara, Sri Lanka";
+    private String edu = "an IT Undergraduate at **University of Jaffna";
+    private String selfLearning = "Dart language with Flutter framework";
+    private String email = "chamudithakavishan2001@gmail.com";
 
-- 🧑‍🎓 I’m an IT Undergraduate at **University of Jaffna | Sri Lanka**
-- 🤝 I’m currently learning **Dart language with Flutter framework**
-- 📫 How to reach me **chamudithakavishan2001@gmail.com**
+    public static void main(String[] args)
+    {
+        AbhigyanTrips me = new AbhigyanTrips();
+    }
 
-</td>
-</tr>
-</table>
+    @Override
+    public String toString()
+    {
+        return name;
+    }
+}
+```
 
 ---
 <h3 align="center">My Statistics:</h3>
