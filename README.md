@@ -13,7 +13,7 @@ public class Profile
 {
     private String name = "Chamuditha Perera";
     private String location = "Kalutara, Sri Lanka";
-    private String edu = "an IT Undergraduate at **University of Jaffna**";
+    private String edu = "an IT Undergraduate at University of Jaffna";
     private String selfLearning = "Dart language with Flutter framework";
     private String email = "chamudithakavishan2001@gmail.com";
 
