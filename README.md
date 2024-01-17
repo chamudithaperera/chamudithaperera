@@ -32,7 +32,7 @@ public class Profile
 ```
 
 ---
-<h3 align="center">My Statistics:</h3>
+<h3 left="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -51,7 +51,7 @@ public class Profile
 </table>
 
 ---
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Dart-Light.svg" alt="dart" width="40" height="40"/> </a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flutter-Light.svg" alt="flutter" width="40" height="40"/> </a>
@@ -73,7 +73,7 @@ public class Profile
 </p>
 
 ---
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/chamudithakavishan" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="chamudithakavishan" height="50" width="60" /></a>
 <a href="https://stackoverflow.com/users/chamuditha-perera" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/StackOverflow-Light.svg" alt="chamuditha-perera" height="50" width="60" /></a>
