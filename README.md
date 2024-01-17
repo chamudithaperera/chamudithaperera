@@ -8,6 +8,7 @@
   </a>
 </div>
 
+<h3 align="center">About me:</h3>
 ```java
 public class Profile
 {
