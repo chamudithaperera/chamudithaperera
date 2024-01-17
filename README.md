@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamuditha Perera</h1>
+<h1 align="center">Hi 👋, I'm Chamuditha Perera</h1>
 <h3 align="center">Mobile Application Full Stack Developer</h3>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=chamudithaperera&label=Profile%20views&color=88a3b4&style=flat" alt="chamudithaperera" /> </div>
