@@ -5,7 +5,8 @@
  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chamudithaperera">
 </a>
-<a href="https://github.com/chamudithaperera?tab=followers"><img src="https://img.shields.io/github/followers/chamudithaperera?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/chamudithaperera?tab=followers">
+ <img src="https://img.shields.io/github/followers/chamudithaperera?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 <div align="center">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=VpCqJZNgqvtXzKFhgTfXHCmxtRJRGmRdkRwTDFTRFVCQsZmvXRLSrxpFHqqhCPXKCFqPcfB" target="_blank">
