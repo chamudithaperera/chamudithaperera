@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chamuditha</h1>
 <h3 align="center">Mobile Application Full Stack Developer</h3>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=chamudithaperera&label=Profile%20views&color=88a3b4&style=flat" alt="chamudithaperera" /> </div>
+<div align="center"> 
+ <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=chamudithaperera">
+</a>
+<a href="https://github.com/dineshpiyasamara?tab=followers"><img src="https://img.shields.io/github/followers/chamudithaperera?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
 <div align="center">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=VpCqJZNgqvtXzKFhgTfXHCmxtRJRGmRdkRwTDFTRFVCQsZmvXRLSrxpFHqqhCPXKCFqPcfB" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
