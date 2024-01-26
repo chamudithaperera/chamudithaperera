@@ -30,7 +30,7 @@ public class Profile
     @Override
     public String toString()
     {
-        return name;
+        return name + '\n' + email;
     }
 
     public static void main(String[] args)
