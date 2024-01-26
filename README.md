@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamuditha</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center">Mobile Application Full Stack Developer</h3>
 
 <div align="center"> 
@@ -103,4 +103,3 @@ public class Profile
 ---
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/chamudithaperera"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chamudithaperera" /></a></p><br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
