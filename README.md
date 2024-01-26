@@ -85,7 +85,7 @@ public class Profile
 ---
 <h3 align="center">🤝🏻 Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/chamudithakavishanperera" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="chamudithakavishan" height="50" width="60" /></a>
+<a href="https://linkedin.com/in/chamudithakavishan" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="chamudithakavishan" height="50" width="60" /></a>
 <a href="https://stackoverflow.com/users/23240553/chamuditha-perera" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/StackOverflow-Light.svg" alt="chamuditha-perera" height="50" width="60" /></a>
 <a href="https://fb.com/chamuditha.kavishan.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamuditha.kavishan.1" height="50" width="60" /></a>
 <a href="https://instagram.com/chamuditha_kavishan" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="chamuditha_kavishan" height="50" width="60" /></a>
