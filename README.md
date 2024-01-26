@@ -47,12 +47,11 @@ public class Profile
 <tr border="none">
 <td width="50%" align="center">
 
-  ![](https://github-readme-stats.vercel.app/api?username=chamudithaperera&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)
-  
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chamudithaperera&theme=dark&show_icons=true&count_private=true" />  
 </td>
 <td width="50%" align="center">
 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chamudithaperera&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chamudithaperera&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
