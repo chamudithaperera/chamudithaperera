@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chamuditha</h1>
 
-<h3 align="center">Mobile Application Full Stack Developer</h3>
+<h3 align="center">Mobile Application Full Stack Developer (Flutter,Swift)</h3>
 
 <div align="center"> 
  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
