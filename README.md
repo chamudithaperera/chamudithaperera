@@ -24,7 +24,7 @@ public class Profile
     private String location = "Kalutara, Sri Lanka";
     private String edu = "an IT Undergraduate at University of Jaffna";
     private String selfLearning = "Dart(Flutter) & Swift";
-    private String role = "Mobile Application Full Stack Developer (Swift, Flutter)";
+    private String role = "UI/UX Designer & Full Stack Developer (Swift, Flutter)";
     private String email = "chamudithaperera.dev@gmail.com";
 
     @Override
