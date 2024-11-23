@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chamuditha</h1>
+<h1 align="center">Hi 👋, I'm Chamuditha Perera</h1>
 
 <h3 align="center">Mobile Application Full Stack Developer (Swift, Flutter) <br> UI/UX Designer</h3>
 
