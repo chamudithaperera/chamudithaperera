@@ -68,8 +68,10 @@ public class Profile
 
 
 ---
-<h3 align="center">🛠 Languages and Tools:</h3>
+<h3 align="center"> Languages:</h3>
 <p align="center">
+ ![Dart](https://img.shields.io/badge/dart-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 </p>
 
 ---
