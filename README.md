@@ -3,8 +3,8 @@
 <div align="center">
   <h3>Mobile Application Developer (Flutter) <br> UI/UX Designer</h3>
  
-  [![Profile Views](https://komarev.com/ghpvc/?username=chamudithaperera)](https://github.com/Meghna-DAS/github-profile-views-counter) &nbsp; &nbsp;
-  [![GitHub followers](https://img.shields.io/github/followers/chamudithaperera?label=Followers&style=social)](https://github.com/chamudithaperera?tab=followers) &nbsp; &nbsp;
+  [![Profile Views](https://komarev.com/ghpvc/?username=chamudithaperera)](https://github.com/Meghna-DAS/github-profile-views-counter) &nbsp;
+  [![GitHub followers](https://img.shields.io/github/followers/chamudithaperera?label=Followers&style=social)](https://github.com/chamudithaperera?tab=followers) &nbsp;
   [![Gmail](https://img.shields.io/badge/Email-chamudithaperera.dev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chamudithaperera.dev@gmail.com)
 </div>
 
@@ -40,7 +40,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 </details>
 
-<details>
+<details open>
 <summary><b>Backend & Databases</b></summary>
 <br>
   
@@ -52,7 +52,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 </details>
 
-<details>
+<details open>
 <summary><b>UI/UX & Design</b></summary>
 <br>
   
@@ -60,7 +60,7 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 </details>
 
-<details>
+<details open>
 <summary><b>Testing & Tools</b></summary>
 <br>
   
