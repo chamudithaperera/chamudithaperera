@@ -1,28 +1,20 @@
 # <div align="center">👋 Hi, I'm Chamuditha Perera</div>
 
 <div align="center">
-  <h3>Mobile Application Full Stack Developer & UI/UX Designer</h3>
-  <p><em>Specializing in Swift & Flutter Development</em></p>
+  <h3>Mobile Application Developer (Flutter) | UI/UX Designer</h3>
+  > "Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs
   
   [![Profile Views](https://komarev.com/ghpvc/?username=chamudithaperera)](https://github.com/Meghna-DAS/github-profile-views-counter)
   [![GitHub followers](https://img.shields.io/github/followers/chamudithaperera?label=Followers&style=social)](https://github.com/chamudithaperera?tab=followers)
   [![Gmail](https://img.shields.io/badge/Email-chamudithaperera.dev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chamudithaperera.dev@gmail.com)
 </div>
 
-## 💫 About Me
+## 💫 About Me 
 
-```dart
-class Developer {
-  final String name = "Chamuditha Perera",
-      location = "Kalutara, Sri Lanka",
-      education = "IT Undergraduate @ University of Jaffna",
-      specialization = "Mobile App Development & UI/UX Design";
-  final List<String> technologies = ["Swift", "Flutter/Dart", "React Native"],
-      currentlyLearning = ["Advanced SwiftUI", "Flutter State Management"];
-
-  String contact() => "chamudithaperera.dev@gmail.com";
-}
-```
+- **Name:** Chamuditha Perera
+- **Education:** Bsc in IT University of Jaffna
+- **Role:** Mobile Application Developer (Flutter) & UI/UX Designer
+- **Location:** Kalutara, Sri Lanka
 
 ## 🚀 Tech Stack
 
