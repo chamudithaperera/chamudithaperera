@@ -2,13 +2,13 @@
 
 <div align="center">
   <h3>Mobile Application Developer (Flutter) | UI/UX Designer</h3>
-  > "Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs
+ 
   
   [![Profile Views](https://komarev.com/ghpvc/?username=chamudithaperera)](https://github.com/Meghna-DAS/github-profile-views-counter)
   [![GitHub followers](https://img.shields.io/github/followers/chamudithaperera?label=Followers&style=social)](https://github.com/chamudithaperera?tab=followers)
   [![Gmail](https://img.shields.io/badge/Email-chamudithaperera.dev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chamudithaperera.dev@gmail.com)
 </div>
-
+ > "Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs
 ## 💫 About Me 
 
 - **Name:** Chamuditha Perera
