@@ -3,8 +3,8 @@
 <div align="center">
   <h3>Mobile Application Developer (Flutter) <br> UI/UX Designer</h3>
  
-  [![Profile Views](https://komarev.com/ghpvc/?username=chamudithaperera)](https://github.com/Meghna-DAS/github-profile-views-counter)
-  [![GitHub followers](https://img.shields.io/github/followers/chamudithaperera?label=Followers&style=social)](https://github.com/chamudithaperera?tab=followers)
+  [![Profile Views](https://komarev.com/ghpvc/?username=chamudithaperera)](https://github.com/Meghna-DAS/github-profile-views-counter) &nbsp; &nbsp;
+  [![GitHub followers](https://img.shields.io/github/followers/chamudithaperera?label=Followers&style=social)](https://github.com/chamudithaperera?tab=followers) &nbsp; &nbsp;
   [![Gmail](https://img.shields.io/badge/Email-chamudithaperera.dev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chamudithaperera.dev@gmail.com)
 </div>
 
