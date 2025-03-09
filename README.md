@@ -1,187 +1,130 @@
+# <div align="center">👋 Hi, I'm Chamuditha Perera</div>
+
 <div align="center">
+  <h3>Mobile Application Full Stack Developer & UI/UX Designer</h3>
+  <p><em>Specializing in Swift & Flutter Development</em></p>
   
-![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12&height=200&section=header&text=Chamuditha%20Perera&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&rotate=13)
-
-### `Mobile Developer` | `UI/UX Designer` | `Full Stack Engineer`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Building+Beautiful+Mobile+Experiences;Swift+%26+Flutter+Development;Crafting+Elegant+User+Interfaces)](https://github.com/chamudithaperera)
-
+  [![Profile Views](https://komarev.com/ghpvc/?username=chamudithaperera)](https://github.com/Meghna-DAS/github-profile-views-counter)
+  [![GitHub followers](https://img.shields.io/github/followers/chamudithaperera?label=Followers&style=social)](https://github.com/chamudithaperera?tab=followers)
+  [![Gmail](https://img.shields.io/badge/Email-chamudithaperera.dev%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chamudithaperera.dev@gmail.com)
 </div>
 
+## 💫 About Me
+
+```dart
+class Developer {
+  final String name = "Chamuditha Perera",
+      location = "Kalutara, Sri Lanka",
+      education = "IT Undergraduate @ University of Jaffna",
+      specialization = "Mobile App Development & UI/UX Design";
+  final List<String> technologies = ["Swift", "Flutter/Dart", "React Native"],
+      currentlyLearning = ["Advanced SwiftUI", "Flutter State Management"];
+
+  String contact() => "chamudithaperera.dev@gmail.com";
+}
+```
+
+## 🚀 Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
 <br>
+  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+</details>
+
+<details open>
+<summary><b>Frameworks & Libraries</b></summary>
+<br>
+  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+</details>
+
+<details>
+<summary><b>Backend & Databases</b></summary>
+<br>
+  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+</details>
+
+<details>
+<summary><b>UI/UX & Design</b></summary>
+<br>
+  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+</details>
+
+<details>
+<summary><b>Testing & Tools</b></summary>
+<br>
+  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase Test Lab](https://img.shields.io/badge/Firebase_Test_Lab-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Flutter DevTools](https://img.shields.io/badge/Flutter_DevTools-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+</details>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  
-  <a href="mailto:chamudithaperera.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white&color=000000" />
-  </a>
-  <a href="https://linkedin.com/in/chamudithakavishan">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white&color=000000" />
-  </a>
   <a href="https://github.com/chamudithaperera">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white&color=000000" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamudithaperera&theme=tokyonight&show_icons=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chamudithaperera&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=8&layout=compact" />
   </a>
-  <a href="https://stackoverflow.com/users/23240553/chamuditha-perera">
-    <img src="https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=stackoverflow&logoColor=white&color=000000" />
-  </a>
-  <a href="https://www.buymeacoffee.com/chamudithaperera">
-    <img src="https://img.shields.io/badge/-Support_My_Work-black?style=for-the-badge&logo=buymeacoffee&logoColor=white&color=000000" />
-  </a>
-  
 </div>
 
-<!-- About Me Section -->
-## <img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="30"> About Me
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxjamh1bzBhczU5enJ3NGU1dXY3dGM0c3VqNTFwc2F5bGFlazJpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamudithaperera&theme=tokyonight&hide_border=false" />
 </div>
 
-```txt
-─────────────────────────────────────────────────────────────────────────
-Mobile developer with a passion for creating intuitive, user-centered apps
-that seamlessly blend elegant code with beautiful design. Based in Sri Lanka,
-I specialize in Swift and Flutter while pursuing my IT degree.
-─────────────────────────────────────────────────────────────────────────
-```
-
-> 🚀 **Transforming Ideas into Exceptional Digital Experiences**
-
-### What Drives Me
-
-- **User-Centered Design** - Creating interfaces that are intuitive and delightful
-- **Clean Architecture** - Building scalable applications with maintainable code
-- **Continuous Learning** - Always exploring new technologies and methodologies
-
-### Currently Working On
-
-- 📱 Advanced SwiftUI animation patterns 
-- 💡 Flutter state management with Riverpod
-- 🔍 Mobile UI motion design and micro-interactions
-
-<!-- Tech Stack Section -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
+## 🤝 Connect With Me
 
 <div align="center">
-
-### Main Technologies
-
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&labelColor=black&logo=swift&logoColor=FA7343)](#)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)](#) 
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&labelColor=black&logo=dart&logoColor=0175C2)](#)
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ED8B00)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
-
-### Backend & Databases
-
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&labelColor=black&logo=node.js&logoColor=43853D)](#)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&labelColor=black&logo=springboot&logoColor=6DB33F)](#)
-
-### Design Tools
-
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
-[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&labelColor=black&logo=adobephotoshop&logoColor=31A8FF)](#)
-
-</div>
-
-<!-- GitHub Stats Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamudithaperera&theme=github-dark&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=FFFFFF" width="400" />
-
-<a href="https://github.com/chamudithaperera">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamudithaperera&hide_border=true&count_private=true&show_icons=true&theme=midnight-purple&bg_color=0D1117&text_color=FFFFFF&title_color=8A2BE2&icon_color=8A2BE2" alt="chamudithaperera" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamudithaperera&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&bg_color=0D1117&text_color=FFFFFF&title_color=8A2BE2" />
-</a>
-
-</div>
-
-<!-- Skills Section -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Skills
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Skills))
-    Mobile Development
-      Swift & SwiftUI
-      Flutter & Dart
-      React Native
-    Backend Development
-      Firebase
-      Node.js & Express
-      Spring Boot
-    Database Management
-      MongoDB
-      MySQL
-    UI/UX Design
-      User Research
-      Wireframing
-      Prototyping
-      Figma
-      Adobe Photoshop
-    DevOps
-      CI/CD
-      Git & GitHub
-      Testing
-    Soft Skills
-      Problem Solving
-      Team Collaboration
-      Continuous Learning
-```
-
-</div>
-
-<!-- Connect With Me Section -->
-## <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="30"> Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/chamudithakavishan">
+  <a href="https://linkedin.com/in/chamudithakavishan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/users/23240553/chamuditha-perera">
+  <a href="https://stackoverflow.com/users/23240553/chamuditha-perera" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
-  <a href="https://instagram.com/chamuditha_kavishan">
+  <a href="https://instagram.com/chamuditha_kavishan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://fb.com/chamuditha.kavishan.1">
+  <a href="https://fb.com/chamuditha.kavishan.1" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.youtube.com/channel/UCXW5p2czIgUBx4khwhZrDPw">
+  <a href="https://www.youtube.com/channel/UCXW5p2czIgUBx4khwhZrDPw" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.hackerrank.com/chamudithakavis1">
+  <a href="https://www.hackerrank.com/chamudithakavis1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </div>
 
-<br>
+## ☕ Support My Work
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/chamudithaperera">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" height="50" width="210" alt="chamudithaperera" />
+  <a href="https://www.buymeacoffee.com/chamudithaperera" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </div>
 
-<!-- Footer Section -->
+---
+
 <div align="center">
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
-  
-  <p>
-    <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-purple.svg" alt="Made with love" />
-    <img src="https://img.shields.io/badge/Using-Markdown-blue.svg" alt="Using Markdown" />
-    <img src="https://img.shields.io/badge/Status-Always%20Learning-brightgreen.svg" alt="Status" />
-  </p>
-  
-  ```
-  Thank you for visiting my profile! Let's connect and build something amazing together.
-  ```
+  <i>Thanks for visiting my profile! Let's build something amazing together.</i>
 </div>
