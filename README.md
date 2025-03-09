@@ -11,20 +11,15 @@
 
 ## 💫 About Me
 
-```swift
-struct Developer {
-    let name = "Chamuditha Perera"
-    let location = "Kalutara, Sri Lanka"
-    let education = "IT Undergraduate @ University of Jaffna"
-    let specialization = "Mobile App Development & UI/UX Design"
-    let technologies = ["Swift", "Flutter/Dart", "React Native"]
-    let currentlyLearning = ["Advanced SwiftUI", "Flutter State Management"]
-    
-    func contact() -> String {
-        return "chamudithaperera.dev@gmail.com"
-    }
-}
-```
+I'm a passionate mobile application developer and UI/UX designer based in Kalutara, Sri Lanka. Currently pursuing my IT degree at the University of Jaffna, I specialize in creating intuitive, user-centered applications with elegant code and beautiful interfaces.
+
+- 📱 **Professional Focus**: Full-stack mobile development using Swift and Flutter
+- 🎓 **Education**: IT Undergraduate at University of Jaffna
+- 🌱 **Currently Learning**: Advanced SwiftUI patterns and Flutter state management
+- 💼 **Expertise**: Bridging the gap between stunning design and efficient implementation
+- 🔍 **Approach**: User-centered design with clean, maintainable code architecture
+
+With a strong foundation in both development and design, I create mobile experiences that are not only functional but delightful to use. I'm constantly exploring new technologies and methodologies to enhance my skill set and deliver exceptional digital products.
 
 ## 🚀 Tech Stack
 
